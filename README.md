@@ -78,5 +78,6 @@ Image encryption for secure communication.
 ## 📫 Connect
 
 - GitHub: https://github.com/jai-tanwar2005
-- LinkedIn: Add your LinkedIn
-- Email: Add your Email
+- LinkedIn:www.linkedin.com/in/jai-tanwar-74a81a325
+- Email: jaitanwar327@gmai.com
+- 
