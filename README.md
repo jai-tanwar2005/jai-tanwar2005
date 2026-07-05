@@ -93,5 +93,6 @@ Python voice assistant using speech recognition.
 ## 📫 Connect
 
 -   GitHub: https://github.com/jai-tanwar2005
--   LinkedIn: Add your LinkedIn link
--   Email: Add your email
+-   LinkedIn: www.linkedin.com/in/jai-tanwar-74a81a325
+-   Email:jaitanwar327@gmial.com
+-   
