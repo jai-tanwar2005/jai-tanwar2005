@@ -1,98 +1,82 @@
-# Hi 👋 I'm Jai Tanwar
 
-::: {align="center"}
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Enthusiast;B.Tech+Student+%40+DTU;DSA+%7C+C%2B%2B+%7C+Python;Building+Real-World+Projects)](https://git.io/typing-svg)
-:::
+# Hi 👋, I'm Jai Tanwar
 
-## 🚀 About Me
+<div align="center">
 
--   🎓 B.Tech Student @ DTU
--   🤖 Interested in Artificial Intelligence & Machine Learning
--   💻 Strong focus on DSA using C++
--   🐍 Python developer
--   🌱 Currently learning Deep Learning, Computer Vision and GenAI
--   🎯 Goal: AI/ML Internship + Software Engineering
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;B.Tech+Student+%40+DTU;DSA+%7C+C%2B%2B+%7C+Python;Building+Real-World+AI+Projects)
 
-------------------------------------------------------------------------
+### 🚀 AI • Machine Learning • DSA • Python • C++
 
-## 🛠 Tech Stack
+</div>
 
-### Languages
+---
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+# 👨‍💻 About Me
+
+- 🎓 B.Tech Student at **DTU**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 💻 Strong foundation in **DSA (C++)**
+- 🐍 Python Developer
+- 🧠 Exploring Deep Learning, Computer Vision & GenAI
+- 🚀 Building real-world AI projects
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
-### AI / ML
+## AI / ML
+TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • Matplotlib
 
--   Scikit-Learn
--   TensorFlow
--   OpenCV
--   NumPy
--   Pandas
--   Matplotlib
-
-### Tools
-
+## Tools
 Git • GitHub • VS Code • Jupyter • Google Colab
 
-------------------------------------------------------------------------
+---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🏠 Housing Price Prediction
+## 🏠 Housing Price Prediction
+AI/ML model to predict housing prices using real-world datasets.
 
-Machine learning model for predicting house prices using real-world
-features.
+## 🔐 Encrypted QR Generator
+Password-protected QR generation using Python.
 
-### 🎤 Voice Assistant
+## 🎤 Voice Assistant
+Desktop voice assistant using speech recognition.
 
-Python voice assistant using speech recognition.
+## 🖼 Image Cryptography
+Image encryption for secure communication.
 
+---
 
+# 📊 GitHub Stats
 
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-
-
-``` md
 ![Stats](https://github-readme-stats.vercel.app/api?username=jai-tanwar2005&show_icons=true&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jai-tanwar2005&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jai-tanwar2005&layout=compact&theme=tokyonight)
-```
 
-------------------------------------------------------------------------
+---
 
-## 🧠 Learning
+# 🎯 Goals
 
--   Artificial Intelligence
--   Machine Learning
--   Deep Learning
--   Computer Vision
--   Data Structures & Algorithms
+- ✅ Crack AI/ML Internship
+- ✅ 500+ LeetCode Problems
+- ✅ Open Source Contributions
+- ✅ Build Production ML Projects
 
-------------------------------------------------------------------------
+---
 
-## 🎯 Goals
-
--   Solve 500+ LeetCode problems
--   Build production-ready ML projects
--   Contribute to Open Source
--   Crack AI/ML Internship
-
-------------------------------------------------------------------------
-
-> *"Learn. Build. Improve. Repeat."*
+> **"Learn • Build • Improve • Repeat"**
 
 ## 📫 Connect
 
--   GitHub: https://github.com/jai-tanwar2005
--   LinkedIn: www.linkedin.com/in/jai-tanwar-74a81a325
--   Email:jaitanwar327@gmial.com
--   
+- GitHub: https://github.com/jai-tanwar2005
+- LinkedIn: Add your LinkedIn
+- Email: Add your Email
