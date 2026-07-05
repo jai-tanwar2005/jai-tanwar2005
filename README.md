@@ -51,19 +51,13 @@ features.
 
 Python voice assistant using speech recognition.
 
-### 🔐 Encrypted QR Generator
 
-Password-protected QR generator.
-
-### 🖼 Image Cryptography
-
-Image encryption project for secure communication.
 
 ------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
-Replace `jai-tanwar2005` only if your username changes.
+
 
 ``` md
 ![Stats](https://github-readme-stats.vercel.app/api?username=jai-tanwar2005&show_icons=true&theme=tokyonight)
