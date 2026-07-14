@@ -138,5 +138,128 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jai-tanwar2005&theme=tokyo-night"/>
 
 </p>
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/jai-tanwar2005">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jai-tanwar2005&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/jai-tanwar2005">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jai-tanwar2005&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/jai-tanwar2005">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jai-tanwar2005&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/jai-tanwar2005">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jai-tanwar2005&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jai-tanwar2005&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jai-tanwar2005&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jai-tanwar2005&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jai-tanwar2005&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jai-tanwar2005&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💯 Current Focus
+
+```text
+💻 Data Structures & Algorithms
+🌐 Full Stack Development
+🤖 Artificial Intelligence
+📚 Competitive Programming
+🚀 Open Source Contributions
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🔥 Solve 1000+ LeetCode Questions
+- 🚀 Crack Google / Microsoft Internship
+- 🌟 Reach 500+ GitHub Contributions
+- 📦 Build 15+ High Quality Projects
+- 💼 Become a Strong Software Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/jai-tanwar2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
 
 ---
