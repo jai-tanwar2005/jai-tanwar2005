@@ -261,5 +261,119 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
+# 🐍 Contribution Snake
+
+> ⚠️ Is animation ke liye GitHub Action setup karna padega (maine niche workflow bhi diya hai).
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/jai-tanwar2005/jai-tanwar2005/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jai-tanwar2005&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jai-tanwar2005&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jai-tanwar2005&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jai-tanwar2005&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jai-tanwar2005&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jai-tanwar2005&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🌟 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📅 2026 Roadmap
+
+```text
+✅ Master C++
+✅ 1000+ LeetCode Problems
+✅ Learn React
+✅ Learn Node.js
+✅ Build 10+ Projects
+✅ Crack Google Internship
+✅ Contribute to Open Source
+```
+
+---
+
+# 🎵 Currently Listening
+
+<p align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+
+</p>
+
+---
+
+# ☕ Support
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Support%20My%20Work-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jai-tanwar2005&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to Star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
+
 
 ---
