@@ -373,13 +373,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
-</div>
 name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -399,5 +401,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
----
